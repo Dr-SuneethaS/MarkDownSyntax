@@ -9,8 +9,8 @@
 
 ![Lord Sai](https://www.saibabaofindia.com/Jan-2012-feb/1sai-baba-inspires-me-sai-inspires-sboi.jpg)
 
-S.No.|Name|Mobile
-------------------------
-1|x|9866666996,
----------------------
-2|Y|9849403814
+|S.No.|Name|Mobile|
+-------------------
+|1.|x|9866666996|
+--------------
+|2.|Y|9849403814|
