@@ -1,2 +1,1 @@
-# MarkDownSyntax
-Practice Session
+# MarkDownSyntax Practice Session
