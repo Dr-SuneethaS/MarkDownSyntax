@@ -1,3 +1,6 @@
 # MarkDown Syntax Practice Session
-## Heading 2
-### heading 3
+** Bold ** <br>
+*Italic*  <br>
+
+> We're living the future so
+> the present is our past.
