@@ -1,5 +1,5 @@
 # MarkDown Syntax Practice Session
-** Bold ** <br>
+**Bold** <br>
 *Italic*  <br>
 
 > We're living the future so
